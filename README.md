@@ -35,7 +35,7 @@ Curso **100% interativo e gamificado** para aprender Zabbix e Grafana do zero, c
 ## 🚀 Como Usar
 
 ### Acesso Online
-👉 **[Clique aqui para acessar o curso](https://seu-usuario.github.io/curso-zabbix-grafana/)**
+👉 **[Clique aqui para acessar o curso](https://github.com/neocrashy1/curso-zabbix-grafana)**
 
 ### Uso Local
 
